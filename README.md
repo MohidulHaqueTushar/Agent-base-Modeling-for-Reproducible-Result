@@ -1,6 +1,6 @@
 # Agent-base-Modeling-Final-Market-Share
 
-In both agent-based models and other sufficiently complicated economic models, there may be path-dependent effects: The trajectory or outcome of individual replications may depend strongly on random effects that occur early in the computation. This creates obstacles for good research with reproducible results. The main focus on a technology choice model inspired by Brian Arthur. We are interested in the final market share of the second-most widely used technology (after 5000 time periods as is the default).
+In both agent-based models and other sufficiently complicated economic models, there may be path-dependent effects: The trajectory or outcome of individual replications may depend strongly on random effects that occur early in the computation. This creates obstacles for good research with reproducible results. Herw the main interest is in the final market share of the second-most widely used technology (after 5000 time periods as is the default).
 
 **Interpretation:**
 
