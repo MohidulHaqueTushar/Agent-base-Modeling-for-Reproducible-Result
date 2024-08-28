@@ -38,6 +38,6 @@ Please see the `.py` file.
 
 ### 6. Interpretation
 The output value of interest (market share of the second-most widely used technology) is not reproducible in individual runs because of randomness.  
-To get a reproducible result, we need to run a series of simulations, collect the target value, and analyze them. We can also plot the target value to determine if it has a common pattern or distribution.
+To get a reproducible result, we need to run a series of simulations, collect the target value, and analyze them. We can also plot the target value to determine if it has a common pattern or distribution. From the figure we can see that the final market share of the second-most widely used technology mostly lies in the range 0 to 0.2.  Second largest market share closely follows logarithmic distribution in the range 0.0 to 0.2.
 
-From the figure we can see that the final market share of the second-most widely used technology mostly lies in the range 0 to 0.2.  Second largest market share closely follows logarithmic distribution in the range 0.0 to 0.2.
+![Random Output](https://github.com/MohidulHaqueTushar/Agent-base-Modeling-for-Reproducible-Result/blob/main/Image/Largest%20and%20Second%20Largest%20Market%20Share.JPG)
